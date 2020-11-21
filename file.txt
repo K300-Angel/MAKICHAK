@@ -1,0 +1,29 @@
+trainer.train([ #Comentar este fragmento después de la primera ejecución exitosa del programa
+'Cual es tu nombre',
+'Mi nombre es Lexy'
+])
+
+trainer.train([ #Comentar este fragmento después de la primera ejecución exitosa del programa
+'Gracias por todo',
+'de nada   vuelva pronto'
+])
+
+trainer.train([ #Comentar este fragmento después de la primera ejecución exitosa del programa
+'Gracias por la información',
+'ok  hasta luego'
+])
+
+trainer.train([ #Comentar este fragmento después de la primera ejecución exitosa del programa
+'Como se que sus productos son de confianza',
+'Cada producto ofrecido pertenecen a marcas reconocidas'
+])
+
+trainer.train([ #Comentar este fragmento después de la primera ejecución exitosa del programa
+'Hola',
+'Como estuvo su dia' 
+])
+
+trainer.train([ #Comentar este fragmento después de la primera ejecución exitosa del programa
+'Lexy, que productos ofrece la empresa',
+'Ofrece servicios generales'
+]) 
